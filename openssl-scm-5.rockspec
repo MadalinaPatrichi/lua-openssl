@@ -2,15 +2,15 @@ package = "openssl"
 version = "scm-5"
 
 source = {
-  url = "gitrec://github.com/zhaozg/lua-openssl",
-  tag = "0.7.2"
+  url = "gitrec://github.com/MadalinaPatrichi/lua-openssl",
+  tag = "0.7.4"
 }
 
 description = {
   summary    = "Openssl binding for Lua",
-  homepage   = "https://github.com/zhaozg/lua-openssl",
+  homepage   = "https://github.com/MadalinaPatrichi/lua-openssl",
   license    = "MIT",
-  maintainer = "George Zhao",
+  maintainer = "Madalina Patrichi",
   detailed   = [[
   ]],
 }
